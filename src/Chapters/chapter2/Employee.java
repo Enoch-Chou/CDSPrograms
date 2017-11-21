@@ -1,3 +1,5 @@
+package Chapters.chapter2;
+
 //Enoch Chou, Mr. Heiser, Honors Computer Programming Program 6, Employee program
 public class Employee {
 	public Employee(String str, double x) { //constructor, sets name to imput and salary to input

@@ -1,3 +1,5 @@
+package Chapters.chapter2;
+
 //Enoch Chou,Mr. Heiser, Honors Computer Programming Program 6
 public class BankAccountTest {
 	public static void main(String[] args) {

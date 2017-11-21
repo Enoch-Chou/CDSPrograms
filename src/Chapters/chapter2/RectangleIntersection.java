@@ -1,3 +1,5 @@
+package Chapters.chapter2;
+
 //Enoch Chou,Mr. Heiser, Honors Computer Programming Period 6
 import java.awt.Rectangle; //imports REctangle class
 

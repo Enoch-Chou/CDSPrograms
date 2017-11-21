@@ -1,3 +1,5 @@
+package Chapters.chapter2;
+
 //Enoch Chou,Mr. Heiser, Honors Computer Programming Period 6
 public class RoachPopulation {
 	public RoachPopulation(double x) { //constructor

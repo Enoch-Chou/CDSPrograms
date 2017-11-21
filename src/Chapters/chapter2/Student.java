@@ -1,3 +1,5 @@
+package Chapters.chapter2;
+
 //Enoch Chou,Mr. Heiser, Honors Computer Programming Period 6
 public class Student {
 	public Student(String str, int x, int y) { //constructor sets name to input, sum to input, and number to input

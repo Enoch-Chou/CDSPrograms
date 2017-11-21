@@ -1,3 +1,5 @@
+package Chapters.chapter2;
+
 //Enoch Chou,Mr. Heiser, Honors Computer Programming Period 6
 public class BankAccount {
 	public BankAccount(double x) { //constructor sets balance to input

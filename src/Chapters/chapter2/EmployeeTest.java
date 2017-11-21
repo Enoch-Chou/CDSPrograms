@@ -1,3 +1,5 @@
+package Chapters.chapter2;
+
 //Enoch Chou, Mr. Heiser, Honors Computer Programming Program 6, Employee program
 public class EmployeeTest {
 	public static void main(String[] args) {

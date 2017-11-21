@@ -1,3 +1,5 @@
+package Chapters.chapter2;
+
 //Enoch Chou,Mr. Heiser, Honors Computer Programming Period 6
 public class Car{
 	public Car(int x) { //constructor sets efficiency to x and sets fuel to 0
