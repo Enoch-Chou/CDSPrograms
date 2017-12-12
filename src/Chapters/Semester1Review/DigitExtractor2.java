@@ -11,5 +11,5 @@ public class DigitExtractor2 {
 		return reversed;
 	}
 	private String original;
-	private String reversed;
+	private String reversed = "";
 }
