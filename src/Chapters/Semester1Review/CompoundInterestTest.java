@@ -19,5 +19,6 @@ public class CompoundInterestTest {
 		System.out.println("The amount of the investment after 12 years is " + hi.getAmount());
 		hi.incrementYear();
 		System.out.println("The amount of the investment after 13 years is " + hi.getAmount());
+
 	}
 }
