@@ -11,7 +11,7 @@ public class PrimeGeneratorTest {
 			if (hi.isPrime() == true) {
 				if (count % 10 == 0) {
 				System.out.println();
-				System.out.print("row 0" + ((count/10)+1) + ":");
+				System.out.printf("%4s%2d%s","row ",count/10 + 1,":");
 				}
 				System.out.printf("%6d",hi.nextPrime());
 				count++;
