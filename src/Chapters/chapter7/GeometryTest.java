@@ -25,7 +25,7 @@ public class GeometryTest {
 			FileReader reader = new FileReader("src/Chapters/chapter7/points");
 			Scanner file = new Scanner(reader);
 			int i = 0;
-			while (i < 3) {
+			while (file.hasNextLine()) {
 				String input = file.nextLine();
 				StringTokenizer tokenizer = new StringTokenizer(input);
 				i++;
