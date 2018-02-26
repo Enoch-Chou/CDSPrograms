@@ -1,4 +1,4 @@
-package Chapters.chapter7;
+package Chapters.chapter7.ZipToBarcode;
 
 public class BarCode {
 	public BarCode(String x) {

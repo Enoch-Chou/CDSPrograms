@@ -1,4 +1,4 @@
-package Chapters.chapter7;
+package Chapters.chapter7.ZipToBarcode;
 
 import javax.swing.JOptionPane;
 

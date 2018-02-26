@@ -1,4 +1,4 @@
-package Chapters.chapter7;
+package Chapters.chapter7.BarcodeToZip;
 
 public class DecodeDigit {
 	public DecodeDigit(String x) {

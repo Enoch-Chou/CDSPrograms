@@ -1,4 +1,4 @@
-package Chapters.chapter7;
+package Chapters.chapter7.GeometryAndPointDistance;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -22,7 +22,7 @@ public class GeometryTest {
 			System.out.printf("%s%5.2f%n", "The surface area of the cylinder is: ", hi.cylinderSurface(r, h));
 			System.out.printf("%s%5.2f%n", "The volume of a cone is: ", hi.coneVolume(r, h));
 			System.out.printf("%s%5.2f%n", "The surface area of a cone is: ", hi.coneSurface(r, h));
-			FileReader reader = new FileReader("src/Chapters/chapter7/points");
+			FileReader reader = new FileReader("src/Chapters/chapter7/GeometryAndPointDistance/points");
 			Scanner file = new Scanner(reader);
 			int i = 0;
 			while (file.hasNextLine()) {

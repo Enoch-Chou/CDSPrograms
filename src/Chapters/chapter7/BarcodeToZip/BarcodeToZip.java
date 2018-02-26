@@ -1,4 +1,4 @@
-package Chapters.chapter7;
+package Chapters.chapter7.BarcodeToZip;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class BarcodeToZip {
 	public static void main(String[] args) throws FileNotFoundException {
-		FileReader reader = new FileReader("src/Chapters/chapter7/Barcode");
+		FileReader reader = new FileReader("src/Chapters/chapter7/BarcodeToZip/Barcode");
 		Scanner file = new Scanner(reader);
 		while (file.hasNextLine()) {
 			String input = file.nextLine();

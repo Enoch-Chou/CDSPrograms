@@ -1,4 +1,4 @@
-package Chapters.chapter7;
+package Chapters.chapter7.GeometryAndPointDistance;
 
 public class Geometry {
 	public static double SphereVolume(double r) {
