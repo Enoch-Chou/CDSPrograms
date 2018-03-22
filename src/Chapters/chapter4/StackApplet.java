@@ -36,7 +36,7 @@ public class StackApplet extends JApplet{
 		double yBase = yTop + strAscent;
 		g2.setFont(word1);
 		g2.setColor(Color.black);
-		g2.drawString(message, (float)x, (float)yBase);
+		g2.drawString(message, (float)x, (float)yBase - 140);
 		
 		Rectangle2D bounds2 = word2.getStringBounds(message, context);
 		
@@ -48,7 +48,7 @@ public class StackApplet extends JApplet{
 		double yBase2 = yTop2 + strAscent2;
 		g2.setFont(word2);
 		g2.setColor(Color.blue);
-		g2.drawString(message, (float)x2, (float)yBase2 + 70);
+		g2.drawString(message, (float)x2, (float)yBase2 - 70);
 		
 		Rectangle2D bounds3 = word3.getStringBounds(message, context);
 		
@@ -60,7 +60,7 @@ public class StackApplet extends JApplet{
 		double yBase3 = yTop3 + strAscent3;
 		g2.setFont(word3);
 		g2.setColor(Color.cyan);
-		g2.drawString(message, (float)x3, (float)yBase3 - 70);
+		g2.drawString(message, (float)x3, (float)yBase3 - 20);
 		
 		Rectangle2D bounds4 = word4.getStringBounds(message, context);
 		
@@ -72,7 +72,7 @@ public class StackApplet extends JApplet{
 		double yBase4 = yTop4 + strAscent4;
 		g2.setFont(word4);
 		g2.setColor(Color.gray);
-		g2.drawString(message, (float)x4, (float)yBase4 + 140);
+		g2.drawString(message, (float)x4, (float)yBase4 + 70);
 		
 		Rectangle box = new Rectangle(1,1, getWidth()-4, getHeight()-4);
 		g2.setColor(Color.darkGray);
