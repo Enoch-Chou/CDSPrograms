@@ -1,4 +1,4 @@
-package Chapters.Semester1Review;
+package Chapters.Semester1Review.Shirt;
 
 public class Shirt {
 	public Shirt(int collar, int sleeve) {

@@ -1,4 +1,4 @@
-package Chapters.chapter6;
+package Chapters.chapter6.PrimeGenerator;
 
 public class PrimeGenerator {
 	public PrimeGenerator(int x) {

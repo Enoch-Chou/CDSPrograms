@@ -1,4 +1,4 @@
-package Chapters.Semester1Review;
+package Chapters.Semester1Review.CompoundInterest;
 
 public class CompoundInterest {
 	public CompoundInterest(double initial, int interest, int year) {

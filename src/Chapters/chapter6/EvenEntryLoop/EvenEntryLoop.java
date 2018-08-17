@@ -1,4 +1,4 @@
-package Chapters.chapter6;
+package Chapters.chapter6.EvenEntryLoop;
 
 import javax.swing.JOptionPane;
 

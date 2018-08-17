@@ -1,4 +1,4 @@
-package Chapters.Semester1Review;
+package Chapters.Semester1Review.Rectangle;
 
 public class Rectangle {
 	public Rectangle(int x, int y) {

@@ -1,4 +1,4 @@
-package Chapters.Semester1Review;
+package Chapters.Semester1Review.Rectangle;
 
 import javax.swing.JOptionPane;
 

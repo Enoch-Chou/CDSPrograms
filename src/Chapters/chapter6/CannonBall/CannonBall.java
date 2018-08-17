@@ -1,4 +1,4 @@
-package Chapters.chapter6;
+package Chapters.chapter6.CannonBall;
 
 public class CannonBall {
 	public CannonBall(double x) {

@@ -1,4 +1,4 @@
-package Chapters.chapter6;
+package Chapters.chapter6.FactorGenerator;
 
 public class FactorGenerator {
 	public FactorGenerator(int x) {

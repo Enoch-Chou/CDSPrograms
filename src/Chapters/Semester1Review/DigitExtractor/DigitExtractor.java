@@ -1,4 +1,4 @@
-package Chapters.Semester1Review;
+package Chapters.Semester1Review.DigitExtractor;
 
 public class DigitExtractor {
 	public DigitExtractor(int x) {

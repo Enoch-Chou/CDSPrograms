@@ -1,7 +1,7 @@
-package Chapters.Semester1Review;
+package Chapters.Semester1Review.DigitExtractorv2;
 
-public class DigitExtractor2 {
-	public DigitExtractor2(String x) {
+public class DigitExtractor {
+	public DigitExtractor(String x) {
 		original = x;
 	}
 	public String reverse() {
