@@ -1,4 +1,4 @@
-package Chapters.chapter2;
+package Chapters.chapter2.BankAccount;
 
 //Enoch Chou,Mr. Heiser, Honors Computer Programming Program 6
 public class BankAccountTest {

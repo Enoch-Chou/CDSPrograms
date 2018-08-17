@@ -1,4 +1,4 @@
-package Chapters.chapter2;
+package Chapters.chapter2.Car;
 
 //Enoch Chou,Mr. Heiser, Honors Computer Programming Period 6
 public class Car{

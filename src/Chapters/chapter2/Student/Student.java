@@ -1,4 +1,4 @@
-package Chapters.chapter2;
+package Chapters.chapter2.Student;
 
 //Enoch Chou,Mr. Heiser, Honors Computer Programming Period 6
 public class Student {

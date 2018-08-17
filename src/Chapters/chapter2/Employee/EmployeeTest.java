@@ -1,4 +1,4 @@
-package Chapters.chapter2;
+package Chapters.chapter2.Employee;
 
 //Enoch Chou, Mr. Heiser, Honors Computer Programming Program 6, Employee program
 public class EmployeeTest {
